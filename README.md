@@ -7,6 +7,7 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 # Installation
 
 The skeletton of this project has been created thanks to npm and Vite using the Vue.js template :\
+\
 `npm create vite@latest address-book -- --template vue`\
 \
 Then, to install the packages and get the files :\
