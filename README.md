@@ -11,3 +11,7 @@ The skeletton of this project has been created thanks to npm and Vite using the 
 Then, to install the packages and get the files :\
 \
 `npm install`
+
+# Next steps
+
+* Set up the database to save data of the address book
