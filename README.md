@@ -14,4 +14,4 @@ Then, to install the packages and get the files :\
 
 # Next steps
 
-* Set up the database to save data of the address book
+* Set up the database to save data of the address book with express.js
